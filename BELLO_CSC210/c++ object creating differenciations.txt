@@ -1,0 +1,4 @@
+The first line `Mybook mybook;` creates an object of the `Mybook` class 
+on the stack with automatic memory management, while the second line
+`Mybook* mybook = new Mybook;` creates an object on the heap with
+manual memory management using dynamic allocation.

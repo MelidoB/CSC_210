@@ -1,0 +1,4 @@
+Average time for 10 iterations: 0.000130 ms
+Average time for 100 iterations: 0.000057 ms
+Average time for 1000 iterations: 0.000054 ms
+Average time for 10000 iterations: 0.000053 ms

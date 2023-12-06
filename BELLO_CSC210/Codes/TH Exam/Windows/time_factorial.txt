@@ -1,0 +1,4 @@
+Average time taken for factorial of 10: 0.00011046 ms
+Average time taken for factorial of 100: 0.00041395 ms
+Average time taken for factorial of 1000: 0.00269747 ms
+Average time taken for factorial of 10000: 0.0264282 ms
